@@ -1,11 +1,11 @@
+
+
 <img width="900" height="220" alt="banner" src="https://github.com/user-attachments/assets/ad17e872-3105-4077-a032-d7ab433297cf" /><div align="center">
 
 </div>
 
 <div align="center">
 
-
-<br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Tanmayi+Shurpali;Analyze+and+build+AI+systems+that+reason+over+real+data.;RAG+pipelines+to+Tableau+dashboards%2C+end+to+end.;Turning+messy+data+into+decisions+that+matter.;MS+Data+Analytics+%40+Northeastern+%7C+Open+to+Opportunities)](https://github.com/tanmayi123)
 
